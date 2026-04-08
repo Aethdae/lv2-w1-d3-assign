@@ -1,0 +1,25 @@
+{
+  "name": "lv2-w1-d3-assign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aethdae/lv2-w1-d3-assign.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Aethdae/lv2-w1-d3-assign/issues"
+  },
+  "homepage": "https://github.com/Aethdae/lv2-w1-d3-assign#readme",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
