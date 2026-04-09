@@ -2,7 +2,7 @@ import { fibonacci, add, clamp, subtract } from "./utils/math.js";
 import chalk from "chalk";
 
 console.log(
-  chalk.blue(`Fibonacci sequence in blue: ${fibonacci(120).join(" ")}`),
+  chalk.blue(`Fibonacci sequence in blue: ${fibonacci(120).join(" ")}.`),
 );
 
 console.log(
